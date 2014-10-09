@@ -6,8 +6,8 @@ public class Game
 
 	public static void main(String[] args)
 		{
-		Player.getsGenerated();
-		Instructor.explainsJob();
+		//Player.getsGenerated();
+		//Instructor.explainsJob();
 		while(true)
 			{
 			Player.beginsJob();
